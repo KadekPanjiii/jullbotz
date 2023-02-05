@@ -1,0 +1,124 @@
+{
+  "allcommand": [],
+  "anonymous": [],
+  "blockcmd": [],
+  "banned": [],
+  "premium": [],
+  "claim": [],
+  "data": [
+    {
+      "name": "premium",
+      "id": []
+    },
+    {
+      "name": "commands",
+      "id": []
+    },
+    {
+      "name": "limit",
+      "id": []
+    }
+  ],
+  "sewa": [],
+  "antispam": [],
+  "dashboard": [],
+  "listerror": [],
+  "sticker": {},
+  "audio": {},
+  "hittoday": [],
+  "clearchat": [],
+  "users": {
+    "6287786694776@s.whatsapp.net": {
+      "name": "dhitaa",
+      "id": "6287786694776",
+      "date": "5 Februari 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 0,
+      "balance": 1000,
+      "limit": 30,
+      "glimit": 30,
+      "serial": "9UYZ",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6281916892383@s.whatsapp.net": {
+      "name": "panjing",
+      "id": "6281916892383",
+      "date": "5 Februari 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 0,
+      "balance": 1000,
+      "limit": 30,
+      "glimit": 30,
+      "serial": "AJAA",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 1675575035165,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "120363048375705205@g.us": {
+      "name": [],
+      "add": 0,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "desc": true,
+      "descUpdate": true,
+      "autostiker": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "antidelete": false,
+      "antiasing": false,
+      "banchat": false,
+      "expired": 0,
+      "antibadword": true,
+      "antispam": true,
+      "antitroli": false,
+      "antivirtex": false,
+      "antihidetag": false,
+      "viewonce": true,
+      "nsfw": false,
+      "clear": false,
+      "clearTime": 0
+    }
+  },
+  "settings": {
+    "settingbot": {
+      "status": 1675567834634,
+      "setmenu": "document",
+      "docType": "docx",
+      "Qoted": "ftoko",
+      "autoBio": false,
+      "multi": true,
+      "prefix": "!",
+      "fake": "Aiya Botz",
+      "autoblockcmd": false,
+      "fake1": "Extream",
+      "replyType": "web",
+      "setwelcome": "type11",
+      "autoReport": true,
+      "autoLevel": true,
+      "autoSticker": false
+    }
+  },
+  "kickon": {},
+  "others": {
+    "runtime": {
+      "runtime": 1675575070724,
+      "lastTime": 1675575310725
+    }
+  }
+}
